@@ -1,7 +1,6 @@
 ## ✨ Welcome !</h2>
 
-
-## <a  target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+-🐍 Python 
 
 
 ## 📫 How to reach me
@@ -9,6 +8,12 @@
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&message=telegram&label=&color=4165a3&labelColor=000000)](https://t.me/KhamzinAdel)
 [![Email](https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&message=mail&label=&color=e8203b&labelColor=000000)](mailto:khamzin.adel@mail.ru)
 [![Github](https://img.shields.io/static/v1?style=for-the-badge&logo=github&message=GitHub&label=&color=8b32b8&labelColor=000000)](https://github.com/KhamzinAdel)
+
+## 🖥 &nbsp;Work
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=Pwnagetty&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/KhamzinAdel/store) &nbsp; 
+
+&nbsp;
 
 
 <div align="center">
