@@ -1,16 +1,17 @@
-### Hi there 👋
+## ✨ Welcome To My GitHub Profile !</h2>
 
-<!--
-**KhamzinAdel/KhamzinAdel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🐍 I'm a python developer 
 
-Here are some ideas to get you started:
+## 📫 How to reach me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Telegram](https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&message=telegram&label=&color=4165a3&labelColor=000000)](https://t.me/KhamzinAdel)
+[![Email](https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&message=gmail&label=&color=e8203b&labelColor=000000)](mailto:khamzin.adel@mail.ru)
+[![Github](https://img.shields.io/static/v1?style=for-the-badge&logo=github&message=GitHub&label=&color=8b32b8&labelColor=000000)](https://github.com/KhamzinAdel)
+
+<div align="center">
+<img src="https://github.com/SereJaPWNZ/SereJaPWNZ/blob/master/assert/footer.gif" alt="My footer"  />
+</div>
+
+
+### ![Made with love in Russia](https://madewithlove.now.sh/ru?heart=true&colorA=%23000000&template=for-the-badge)
+
