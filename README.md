@@ -11,7 +11,7 @@
 
 ## 🖥 &nbsp;Work
 
-[![Readme Card](https://github.com/KhamzinAdel/store)](https://github.com/KhamzinAdel/store) &nbsp; 
+[![Store](https://github.com/KhamzinAdel/store)](https://github.com/KhamzinAdel/store) &nbsp; 
 
 &nbsp;
 
