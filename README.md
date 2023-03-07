@@ -1,6 +1,6 @@
 ## ✨ Welcome !</h2>
 
--🐍 Python 
+- 🐍 Python 
 
 
 ## 📫 How to reach me
