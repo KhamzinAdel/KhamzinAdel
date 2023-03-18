@@ -10,8 +10,6 @@
 [![Email](https://img.shields.io/static/v1?style=for-the-badge&logo=gmail&message=Email&label=&color=e8203b&labelColor=000000)](mailto:khamzin.adel@mail.ru)
 [![Github](https://img.shields.io/static/v1?style=for-the-badge&logo=github&message=GitHub&label=&color=8b32b8&labelColor=000000)](https://github.com/KhamzinAdel)
 
-- [![codewars](https://www.codewars.com/users/Khamzin/badges/micro)](https://www.codewars.com/users/Khamzin) 
-
 ## 🖥 Work
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhamzinAdel&repo=Store&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/KhamzinAdel/store)
