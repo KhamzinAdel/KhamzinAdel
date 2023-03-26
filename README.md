@@ -18,7 +18,7 @@
 
 
 <div align="center">
-<img src="https://github.com/KhamzinAdel/KhamzinAdel/blob/main/image/footer.gif" alt="My footer"  />
+<img src="https://github.com/KhamzinAdel/KhamzinAdel/blob/main/image/footer.gif" alt="My footer"/>
 </div>
 
 
